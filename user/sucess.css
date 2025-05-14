@@ -1,0 +1,11 @@
+#button2
+{
+  text-align: center;
+  width: 10%;
+  height: 70px;
+  border-radius: 10%;
+  padding: 5px 10px;
+  border:2px solid white;
+  background-color:rgb(39, 88, 44);
+  cursor: pointer;
+}
